@@ -1,3 +1,20 @@
+# 👋 Hi, I'm Annette  
+
+![AI Engineer in Training](https://img.shields.io/badge/AI%20Engineer-In%20Training-blueviolet?logo=openai)  
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn%20%7C%20PyTorch-orange?logo=python)  
+![Data Visualization](https://img.shields.io/badge/Visualization-Plotly%20%7C%20Streamlit-green?logo=plotly)  
+![APIs](https://img.shields.io/badge/API-FastAPI-teal?logo=fastapi)  
+![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-lightgrey?logo=github)  
+
+---
+✨ AI Engineer in the making — currently completing the **DataCamp AI Engineer Certification** (March–April 2025).  
+💡 Passionate about applying AI to **logistics**, **digital valorisation**, and **data-driven food & agriculture**.  
+
+🔗 **Explore my portfolio projects here:**  
+👉 [AI Engineer Portfolio](https://github.com/TCNS-Poiesz/AI-Engineer-Portfolio)  
+
+
 # Hi, I'm Annette 👋
 
 🌱 **AI Engineer in the making** — currently on a 30-day sprint to complete the  
